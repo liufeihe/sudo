@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">数独</string>
+    <string name="action_settings">设置</string>
+    <string name="new_game_label">新游戏</string>
+    <string name="continue_game_label">继续</string>
+    <string name="exit_game_label">退出</string>
+    <string name="about_game_label">关于</string>
+    <string name="about_text">数独是一种逻辑性的益智游戏，要求在9*9的方格中填入1-9的数字，且在每行、每列以及9个3*3的小方格中填入的数字不能重复</string>
+    <string name="title_activity_about">关于数独</string>
+    <string name="title_activity_settings">设置</string>
+    <string name="title_activity_game">数独</string>
+    <string name="title_difficulty">难度</string>
+    <string name="easy_label">简单</string>
+    <string name="medium_label">一般</string>
+    <string name="hard_label">困难</string>
+    <string name="no_move_label">没有可用的数字了</string>
+    <string name="win_label">恭喜你，你已经赢了</string>
+</resources>
